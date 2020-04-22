@@ -3,5 +3,5 @@ Prueba sobre como hacer un repositorio
 
 
 ## Subtitulo
-"Nopal"
+**Nopal:**
 Planta que forma parte de la dieta mexicana
